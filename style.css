@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: skyblue;
+
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+}
+header{
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid black;
+    float: left;
+}
+.header-bio{
+    float: left;
+    color: white;
+    padding: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 20px;
+}
+.header-contact a{
+    text-decoration: none;
+    color: black;
+}
+.header-contact a:hover{
+    color: tomato;
+    text-decoration: underline;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+#personal-section{
+
+}
+.contetnt{
+    margin-bottom: 30px;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: right;
+
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.div-clear{
+    clear: both;
+}
+#work-section{
+
+}
+.content{
+    margin-bottom: 30px;;
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: right;
+}
+.div-clear{
+    clear: both;
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+#key-skill{
+    
+}
+.content{
+    margin-bottom: 30px;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: right;
+}
+.div-clear{
+    clear: both;
+}
+.common hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.edu-template-left{
+    float: left;
+    width: 45%;
+
+}
+.edu-template-right{
+    float: right;
+    width: 45%
+}
+.div-clear{
+    clear: both;
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.left-div{
+    float: left;
+    width: 30%
+}
+.habibul-bashar-left{
+    float: left;
+    width: 45%;
+}
+.tamzid-lasker-right{
+    float: right;
+    width: 45%;
+}
+.div-clear{
+    clear: both;
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+}
+.bottom-container p{
+    margin-top: 20px;
+    color: white;
+}
+    
